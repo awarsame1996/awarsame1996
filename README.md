@@ -9,6 +9,13 @@
 ---
 <div align="center">
   
+- 🔭 My recent project [Whips Car Rental](https://github.com/awarsame1996/whips-car-rental)
+
+- 👨‍💻 View my Portfolio [here](https://abdilatif-portfolio.herokuapp.com/)
+
+- 📫 How to reach me **abdilatifwarsame@gmail.com**
+  
+
 
 
 
